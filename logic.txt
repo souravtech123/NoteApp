@@ -1,0 +1,18 @@
+Problem : - add the note 
+
+input - note thing 
+output - ui meh aa jaye
+task  - add button click kre me yeha sara process ho
+
+example :- 
+
+input : - milk 
+click - [add]
+output - task added jo gya 
+
+let array = ["milk"] ;
+milk ui per dikhega 
+
+delete feature 
+
+

@@ -1,0 +1,11 @@
+delete the feature 
+
+input - button clicked of delete
+output - items in the arrays remove items in ui lost 
+task - delete 
+
+example : 
+task = ["milk"]
+delete button pressed 
+items removed 
+
